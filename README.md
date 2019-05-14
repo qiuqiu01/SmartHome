@@ -1,0 +1,2 @@
+# SmartHome
+创建一个SmartHome仓库学习智能家居课程，并学习用git来管理项目，项目名为SmartHome
